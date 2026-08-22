@@ -29,5 +29,6 @@ All student names were anonymized (e.g., "Student 1", "Student 2") and contact i
 - Dashboard screenshots (see below)
 
 ## 📸 Dashboard Preview
-[2026_2027_TUTION_MANAGEMENT_SYSTEM.pdf](https://github.com/user-attachments/files/31330262/2026_2027_TUTION_MANAGEMENT_SYSTEM.pdf)
+<img width="1277" height="734" alt="image" src="https://github.com/user-attachments/assets/55e7095f-ecbd-42aa-b5db-2c65bb5837ac" />
+
 
